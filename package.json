@@ -1,0 +1,9 @@
+{
+  "name": "frogbot-demo-worker",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "mpath": "0.7.0"
+  }
+}

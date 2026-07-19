@@ -1,2 +1,3 @@
 # frogbot-demo-worker
-Frogbot demo service
+
+Sample service used to demo JFrog Frogbot.
